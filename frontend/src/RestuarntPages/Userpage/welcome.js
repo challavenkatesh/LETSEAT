@@ -582,3 +582,4 @@ const deals = [
 }
 
 export default Welcome;
+/*Welcome*/

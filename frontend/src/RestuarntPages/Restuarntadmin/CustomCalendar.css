@@ -1,0 +1,17 @@
+.styled-calendar {
+  background-color: #111;
+  color: white;
+  border-radius: 1rem;
+  padding: 10px;
+}
+
+.react-calendar__tile--active {
+  background: #ef4444 !important; /* red */
+  color: white !important;
+  border-radius: 10px;
+}
+.react-calendar__tile--active:hover {
+  background: #ef4444 !important; /* red */
+  color: white !important;
+  border-radius: 10px;
+}
